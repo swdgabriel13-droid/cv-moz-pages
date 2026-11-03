@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Depois de publicar, substitua SEU-USUARIO pelo nome da sua conta GitHub.
+Sitemap: https://SEU-USUARIO.github.io/cv-moz/sitemap.xml
